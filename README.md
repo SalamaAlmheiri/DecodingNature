@@ -11,5 +11,6 @@
 - I do not know how to make the viewer have the ability to send their image directly to processing.
 
 **Example:**
+- This is an outcome of what it would look like. (I chose a random image)
 
 <img src="https://github.com/SalamaAlmheiri/DecodingNature/blob/main/testExample1.png" width=350 align=center>
