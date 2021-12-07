@@ -9,3 +9,6 @@
 
 ### Problem:
 - I do not know how to make the viewer have the ability to send their image directly to processing.
+
+Example:
+<img src="https://github.com/SalamaAlmheiri/DecodingNature/blob/main/testExample1.png" width=500 align=center>
