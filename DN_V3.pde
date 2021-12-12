@@ -4,7 +4,7 @@
  */
 // THINGS TO ADD: going back to file selection when a specific button is pressed
 
-int gameState; //0, title page; 1,artwork generating;
+int gameState; //0, file selection page; 1,artwork generating; 2,exit back to file selection.
 boolean doneAlready = false;
 boolean imgSelected = false;
 
